@@ -1,0 +1,28 @@
+{
+  "name": "codecademy-cheatsheet",
+  "version": "1.0.0",
+  "description": "A cheatsheet for HTML tags tasked by Codecademy",
+  "main": "app.js",
+  "scripts": {
+    "test": "No test script provided"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doilyuser/codecademy-cheatsheet.git"
+  },
+  "keywords": [
+    "codecademy",
+    "cheatsheet",
+    "html",
+    "semantic-html"
+  ],
+  "author": "doilyuser",
+  "license": "Apache v2.0.0",
+  "bugs": {
+    "url": "https://github.com/doilyuser/codecademy-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/doilyuser/codecademy-cheatsheet#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
