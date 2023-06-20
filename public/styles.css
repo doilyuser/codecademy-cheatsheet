@@ -42,6 +42,10 @@ div.table-description {
    text-transform:uppercase;
 }
 
+.blue-text {
+  color: rgba(62,148,236,1)
+}
+
 
 /*** Table Styles **/
 
