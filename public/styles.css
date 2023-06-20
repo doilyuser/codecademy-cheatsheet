@@ -11,7 +11,7 @@ body {
 div.table-title {
   display: block;
   margin: auto;
-  max-width: 600px;
+  max-width: 800px;
   padding:5px;
   width: 100%;
 }
@@ -21,7 +21,7 @@ div.table-description {
   margin: auto;
   margin-bottom: 2em;
   margin-top: 4em;
-  max-width: 600px;
+  max-width: 800px;
   padding: 5px;
   width: 100%;
   background-color: #fafafa;
@@ -51,7 +51,7 @@ div.table-description {
   border-collapse: collapse;
   height: 320px;
   margin: auto;
-  max-width: 600px;
+  max-width: 800px;
   padding:5px;
   width: 100%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
